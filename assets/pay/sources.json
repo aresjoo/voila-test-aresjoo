@@ -1,0 +1,43 @@
+[
+  {
+    "file": "visa.png",
+    "url": "https://cdn.visa.com/v2/assets/images/logos/visa/blue/logo.png",
+    "sha256": "0ebb1697ec9ed895955069d5aca347918d92cd59da740f98f772f468707e2361"
+  },
+  {
+    "file": "amex-mastercard-visa.svg",
+    "url": "https://www.americanexpress.com/content/dam/amex/us/merchant/supplies-uplift/product/digital/CHECKOUT1IT.zip",
+    "archive_member": "CHECKOUT1IT/Amex_MasterCard_Visa/3_Card_color_horizontal.svg",
+    "sha256": "4829e6fcc8fd5a65ffdadfb0beee7b2ecab759b95d0300f9880ff32a18d872cd"
+  },
+  {
+    "file": "visa-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/img/visa-729c05c240c4bdb47b03ac81d9945bfe.svg",
+    "sha256": "d0b63ce61a6e0367ae657102f479f114fa8851a0e95d1894971dd5cddb426725"
+  },
+  {
+    "file": "mastercard-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/img/mastercard-4d8844094130711885b5e41b28c9848f.svg",
+    "sha256": "747fca640bc3ae35c7422e023f27cf4a0953b7fe694bfb8bb528b50b70bd15ce"
+  },
+  {
+    "file": "amex-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/img/amex-a49b82f46c5cd6a96a6e418a6ca1717c.svg",
+    "sha256": "07483f00631032dfd02e79d3de16d990830ec530b691c236b58a641b4b752458"
+  },
+  {
+    "file": "discover-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/img/discover-e5b11bba2aa760e805fba9f98e5c6581.svg",
+    "sha256": "52c8feb24f0b8dfb959df93bbf1750f43407049131f58dece6ae4ee8cc5e5431"
+  },
+  {
+    "file": "cvc-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/js/elements-inner-payment-afa6530aa25c717ba0f8db567497e674.js",
+    "modules": [
+      23172,
+      71071
+    ],
+    "method": "Stripe 공식 CVC 부품을 React renderToStaticMarkup으로 내보냄. 선과 숫자는 원본 그대로. 색은 화면 CSS에서 설정.",
+    "sha256": "fe6d5c2deb5708a38fca290b8f866683905eb6dc5c01903873a3febc1f6cf566"
+  }
+]
