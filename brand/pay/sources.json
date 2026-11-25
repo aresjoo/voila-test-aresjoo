@@ -31,6 +31,11 @@
     "sha256": "52c8feb24f0b8dfb959df93bbf1750f43407049131f58dece6ae4ee8cc5e5431"
   },
   {
+    "file": "unionpay-stripe.svg",
+    "url": "https://js.stripe.com/v3/fingerprinted/img/unionpay-8a10aefc7295216c338ba4e1224627a1.svg",
+    "sha256": "3cd41a77ef3c37c2affe67c940b630dd8f96a16b6e56158088f796a0e62476b9"
+  },
+  {
     "file": "cvc-stripe.svg",
     "url": "https://js.stripe.com/v3/fingerprinted/js/elements-inner-payment-afa6530aa25c717ba0f8db567497e674.js",
     "modules": [

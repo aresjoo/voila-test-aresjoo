@@ -14,6 +14,8 @@
   SHA256 07483f00631032dfd02e79d3de16d990830ec530b691c236b58a641b4b752458
 - discover-stripe.svg: https://js.stripe.com/v3/fingerprinted/img/discover-e5b11bba2aa760e805fba9f98e5c6581.svg
   SHA256 52c8feb24f0b8dfb959df93bbf1750f43407049131f58dece6ae4ee8cc5e5431
+- unionpay-stripe.svg: https://js.stripe.com/v3/fingerprinted/img/unionpay-8a10aefc7295216c338ba4e1224627a1.svg (52쪽, 유니온페이 번호를 알아보면 이 하나만)
+  SHA256 3cd41a77ef3c37c2affe67c940b630dd8f96a16b6e56158088f796a0e62476b9
 - cvc-stripe.svg: https://js.stripe.com/v3/fingerprinted/js/elements-inner-payment-afa6530aa25c717ba0f8db567497e674.js
   SHA256 fe6d5c2deb5708a38fca290b8f866683905eb6dc5c01903873a3febc1f6cf566
 - jcb.gif: https://jcb.sitecorecontenthub.cloud/api/public/content/105660_pic_logo_01.gif
