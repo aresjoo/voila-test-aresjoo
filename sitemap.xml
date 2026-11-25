@@ -27,6 +27,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/en/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/en/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -8501,6 +8527,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/zh/about/</loc>
@@ -16979,6 +17031,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/hi/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -25453,6 +25531,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/es/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/es/about/</loc>
@@ -33931,6 +34035,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/fr/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -42405,6 +42535,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/bn/about/</loc>
@@ -50883,6 +51039,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/pt/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -59357,6 +59539,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/ru/about/</loc>
@@ -67835,6 +68043,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/id/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/id/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -76309,6 +76543,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/de/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/de/about/</loc>
@@ -84787,6 +85047,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/ja/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -93261,6 +93547,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/pcm/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/pcm/about/</loc>
@@ -101739,6 +102051,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/mr/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -110213,6 +110551,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/vi/about/</loc>
@@ -118691,6 +119055,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/te/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/te/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -127165,6 +127555,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/ha/about/</loc>
@@ -135643,6 +136059,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/tr/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -144117,6 +144559,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/sw/about/</loc>
@@ -152595,6 +153063,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/tl/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -161071,6 +161565,32 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/ta/about/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/about/" />
 <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/about/" />
@@ -169545,6 +170065,32 @@
 <xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/" />
 <changefreq>daily</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<xhtml:link rel="alternate" hreflang="zh-Hans" href="https://aresjoo.github.io/voila-test-aresjoo/zh/boxes/" />
+<xhtml:link rel="alternate" hreflang="hi" href="https://aresjoo.github.io/voila-test-aresjoo/hi/boxes/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://aresjoo.github.io/voila-test-aresjoo/es/boxes/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://aresjoo.github.io/voila-test-aresjoo/fr/boxes/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://aresjoo.github.io/voila-test-aresjoo/bn/boxes/" />
+<xhtml:link rel="alternate" hreflang="pt" href="https://aresjoo.github.io/voila-test-aresjoo/pt/boxes/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://aresjoo.github.io/voila-test-aresjoo/ru/boxes/" />
+<xhtml:link rel="alternate" hreflang="id" href="https://aresjoo.github.io/voila-test-aresjoo/id/boxes/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://aresjoo.github.io/voila-test-aresjoo/de/boxes/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://aresjoo.github.io/voila-test-aresjoo/ja/boxes/" />
+<xhtml:link rel="alternate" hreflang="mr" href="https://aresjoo.github.io/voila-test-aresjoo/mr/boxes/" />
+<xhtml:link rel="alternate" hreflang="vi" href="https://aresjoo.github.io/voila-test-aresjoo/vi/boxes/" />
+<xhtml:link rel="alternate" hreflang="te" href="https://aresjoo.github.io/voila-test-aresjoo/te/boxes/" />
+<xhtml:link rel="alternate" hreflang="ha" href="https://aresjoo.github.io/voila-test-aresjoo/ha/boxes/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://aresjoo.github.io/voila-test-aresjoo/tr/boxes/" />
+<xhtml:link rel="alternate" hreflang="sw" href="https://aresjoo.github.io/voila-test-aresjoo/sw/boxes/" />
+<xhtml:link rel="alternate" hreflang="tl" href="https://aresjoo.github.io/voila-test-aresjoo/tl/boxes/" />
+<xhtml:link rel="alternate" hreflang="ta" href="https://aresjoo.github.io/voila-test-aresjoo/ta/boxes/" />
+<xhtml:link rel="alternate" hreflang="ko" href="https://aresjoo.github.io/voila-test-aresjoo/ko/boxes/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://aresjoo.github.io/voila-test-aresjoo/en/boxes/" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://aresjoo.github.io/voila-test-aresjoo/ko/about/</loc>
