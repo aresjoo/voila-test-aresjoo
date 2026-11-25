@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3559],{33559:function(t,e,n){n.d(e,{RS:function(){return u},av:function(){return c}});let u="gotit.gg";u.split(".")[0];let c=t=>t.replace(/^VOILA(?=[\s:：])/,u)}}]);
